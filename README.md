@@ -2,7 +2,7 @@
 
 ## About the Creator:
 
-<img src="./Profile Picture.jpeg" style="width:50%; margin:auto; display:block">
+<img src="./Profile Picture.jpeg" style="width:10%; margin:auto; display:block">
 
 Hello! My name is Vincent Kreft and I am a chemistry major at UC Berkeley. I am a science-passionate and hardworking student intrigued by the chemical processes of the body. Also, I am an environmental enthusiast who understands that planetary health and human health are interrelated with a goal to conduct research that answers questions at that intersection.
 
