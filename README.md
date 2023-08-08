@@ -6,6 +6,13 @@
 
 Hello! My name is Vincent Kreft and I am a chemistry major at UC Berkeley. I am a science-passionate and hardworking student intrigued by the chemical processes of the body. Also, I am an environmental enthusiast who understands that planetary health and human health are interrelated with a goal to conduct research that answers questions at that intersection.
 
+### Videos From the Creator:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRYnVVw0JVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tKvTQ94JLYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPkUtPKHBfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## About the Website:
 The goal of this website is to exhibit the importance of tackling climate anxiety and how individuals can turn to their community to reduce their environmental stress while providing positive impact to the movement. I will be doing this by not only educating you about the prevalence of climate anxiety, but also create an interactive profiling test that categorizes you into a climate anxiety "personality" (Think <a href="https://www.16personalities.com/">16 Personalities Test</a>).
 
